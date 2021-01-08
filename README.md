@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Facebook-style web messenger with light/dark themes support
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Inspired by Alex Banaga [design](https://dribbble.com/shots/8275108-Facebook-Messenger-Redesign). Work in progress.
 
 ## Available Scripts
 
